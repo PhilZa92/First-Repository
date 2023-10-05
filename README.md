@@ -5,7 +5,7 @@
 
 - [ ] CSS
 
-- [ ] JavaScript xD
+- [ ] JavaScript xD :)
 - [ ] HTML
 - [x] React
 
