@@ -14,5 +14,5 @@
 
 | Colum 1 | Colum 2 | Colum 3 |
 |---------|---------|---------|
-| Row 1   | Cell 2  | Cell 3  |
+| Row 1   |  R      |  R      |
 
