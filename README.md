@@ -4,7 +4,8 @@
 [Click me to more Infos](https://google.com)
 
 - [ ] CSS
-- [ ] JavaScript
+
+- [ ] JavaScript xD
 - [ ] HTML
 - [x] React
 
